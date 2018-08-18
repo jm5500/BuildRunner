@@ -1,0 +1,4 @@
+# BuildRunner
+GameProject for Android Game Competition
+
+THIS IS A PROJECT APP FOR A COMPETITION IN ANDROID MASTERS IN THE PHILIPPINES
